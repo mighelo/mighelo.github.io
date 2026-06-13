@@ -58,6 +58,6 @@ collections:
 
 domain: mighelo.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mighelo.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /skytravels.github.io/
+baseurl: /skytravels.github.io/
 
 permalink: /:year/:month/:day/:title
