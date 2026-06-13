@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-
+<!-- trigger rebuild -->
 <main class="container">
 
   <h1>Appunti di viaggio</h1>
