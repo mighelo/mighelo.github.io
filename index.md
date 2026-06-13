@@ -11,7 +11,7 @@ author_profile: true
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <p class="meta">{{ post.date | date: "%d %B %Y" }}</p>
       </li>
     {% endfor %}
