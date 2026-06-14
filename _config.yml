@@ -54,6 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 url: https://mighelo.github.io
-baseurl: /skytravels.github.io
+baseurl: 
 
 permalink: /:year/:month/:day/:title/
